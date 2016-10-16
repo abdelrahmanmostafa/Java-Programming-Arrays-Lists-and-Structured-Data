@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testLogEntry()
+comment1.params=
+comment1.target=void\ testLogAnalyzer()
+comment2.params=
+comment2.target=void\ testHigherThanNum()
+comment3.params=
+comment3.target=void\ testUniqueIPVisitsOnDay()
+comment4.params=
+comment4.target=void\ testCountUniqueIPsInRange()
+comment5.params=
+comment5.target=void\ testUniqueIP()
+comment6.params=
+comment6.target=void\ test()
+numComments=7
